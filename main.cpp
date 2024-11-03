@@ -8,7 +8,7 @@ struct Persoana {
     double venit;
 };
 
-
+//
 void setValori(Persoana persoane[]) {
     strcpy(persoane[0].nume, "Andrei Popescu");
     persoane[0].venit = 3500.75;
